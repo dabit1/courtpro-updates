@@ -1,4 +1,4 @@
-# CourtPro Updates Server
+# SlotSet Updates Server
 
 This repository hosts static update files for [Expo](https://expo.dev/) apps. Use it to deliver over‑the‑air updates built with `expo export`.
 
@@ -21,7 +21,7 @@ Set the `updates.url` field in `app.json` or `app.config.ts` to your GitHub Page
 ```json
 {
   "updates": {
-    "url": "https://<user>.github.io/courtpro-updates"
+    "url": "https://<user>.github.io/slotset-updates"
   }
 }
 ```
